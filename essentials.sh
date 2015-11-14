@@ -15,4 +15,14 @@ sudo apt-get install g++
 
 # Install Ubuntu  Restricted Extras
 
-sudo apt-get install ubuntu-restricted-extras
+
+# Ubuntu Restricted Extras
+# sudo apt-get install ubuntu-restricted-extras
+
+
+sudo apt-get install gettext
+sudo apt-get install autopoint
+sudo apt-get install autoconf
+
+#VLC Build Dependencies
+# sudo apt-get install build-dep vlc
