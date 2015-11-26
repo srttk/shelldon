@@ -17,6 +17,9 @@ sudo a2enmod rewrite
 sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
 sudo apt-get install php5-curl
 
+# For php send mail [ mail()]
+#sudo apt-get install postfix
+
 # MySQL
 sudo apt-get install mysql-server php5-mysql
 
