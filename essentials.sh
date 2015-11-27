@@ -9,7 +9,9 @@ sudo apt-get update
 
 #Install Build Essentials
 
-sudo apt-get install build-essential
+sudo apt-get -y install build-essential
+
+sudo apt-get -y zlib1g-dev libssl-dev libreadline5-dev make curl 
 
 sudo apt-get install g++
 

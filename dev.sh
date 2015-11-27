@@ -2,6 +2,9 @@
 #
 # Install Development Environments
 
+# Git
+sudo apt-get install git-core
+
 # perl
 sudo apt-get install perl
 #python
