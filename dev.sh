@@ -23,6 +23,9 @@ sudo apt-get install php5-curl
 # For php send mail [ mail()]
 #sudo apt-get install postfix
 
+# php sqlite support
+# sudo apt-get install php5-sqlite
+
 # MySQL
 sudo apt-get install mysql-server php5-mysql
 
