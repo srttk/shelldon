@@ -11,6 +11,9 @@ sudo apt-get update
 
 sudo apt-get -y install build-essential
 
+sudo apt-get install -y libav-tools 
+sudo apt-get install -y libavcodec-extra-54 libavformat-extra-54
+
 sudo apt-get -y zlib1g-dev libssl-dev libreadline5-dev make curl 
 
 sudo apt-get install g++
